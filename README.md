@@ -1,9 +1,9 @@
 # 🔌 TCP & UDP Socket Programming using Python
 
-                          ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-                          ![Socket](https://img.shields.io/badge/Socket-TCP%20%7C%20UDP-green?style=flat)
-                          ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
-                          ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![Socket](https://img.shields.io/badge/Socket-TCP%20%7C%20UDP-green?style=flat)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 > A complete implementation of **Client-Server Communication** using Python's built-in `socket` library — covering both TCP and UDP protocols with real-time bidirectional messaging.
 
