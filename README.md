@@ -1,9 +1,9 @@
 # 🔌 TCP & UDP Socket Programming using Python
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
-![Socket](https://img.shields.io/badge/Socket-TCP%20%7C%20UDP-green?style=flat)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
+                          ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+                          ![Socket](https://img.shields.io/badge/Socket-TCP%20%7C%20UDP-green?style=flat)
+                          ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
+                          ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat)
 
 > A complete implementation of **Client-Server Communication** using Python's built-in `socket` library — covering both TCP and UDP protocols with real-time bidirectional messaging.
 
@@ -95,7 +95,6 @@ python udp_client.py
 ========================================
         UDP SERVER STARTED
   Student : Niha Hawas
-  Reg No  : 2312274
 ========================================
 Listening on 127.0.0.1:12346 ...
 Waiting for messages...
@@ -156,10 +155,10 @@ Your Reply: YES IT IS DONE
   <tr>
     <td align="center">
       <b>Niha Hawas</b><br>
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+      <a href="https://www.linkedin.com/in/nihahawas45">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>&nbsp;
-      <a href="https://github.com/YOUR-GITHUB-HERE">
+      <a href="https://github.com/nihahawas">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       </a>
     </td>
