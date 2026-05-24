@@ -7,24 +7,6 @@
 
 > A complete implementation of **Client-Server Communication** using Python's built-in `socket` library — covering both TCP and UDP protocols with real-time bidirectional messaging.
 
----
-
-## 👩‍💻 Author
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Niha Hawas</b><br>
-      <sub>Reg No: 2312274</sub><br><br>
-      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>&nbsp;
-      <a href="https://github.com/YOUR-GITHUB-HERE">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -164,6 +146,25 @@ Your Reply: YES IT IS DONE
 - Socket Binding, Listening & Accepting
 - Real-time Bidirectional Messaging
 - Data Encoding & Decoding over Sockets
+
+---
+
+
+## 👩‍💻 Author
+
+<table>
+  <tr>
+    <td align="center">
+      <b>Niha Hawas</b><br>
+      <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>&nbsp;
+      <a href="https://github.com/YOUR-GITHUB-HERE">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
