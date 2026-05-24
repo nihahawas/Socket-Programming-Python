@@ -7,9 +7,12 @@
 
 > A complete implementation of **Client-Server Communication** using Python's built-in `socket` library — covering both TCP and UDP protocols with real-time bidirectional messaging.
 
+---
+## TCP Server and Client communication
+
+<img width="1860" height="985" alt="tcp-server-client" src="https://github.com/user-attachments/assets/d052fa5b-5cb3-4414-903a-fb86f771ef71" />
 
 ---
-
 ## 📌 About This Project
 
 This project demonstrates **real-time Client-Server Communication** using Python sockets.
